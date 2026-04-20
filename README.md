@@ -58,4 +58,4 @@ Berikut adalah progres pengolahan citra dari awal hingga deteksi akhir:
     ```
 3.  Jalankan program melalui terminal:  
     `python counting.py`
-4.  Cek hasil akhir di `output/result.png`.
+4.  Cek hasil akhir di `output/result.png`
