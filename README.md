@@ -6,7 +6,7 @@
 
 ---
 
-## 1. Identitas Proyek
+## 1. Identitas Project
 * **Target Objek:** Mobil pada foto aerial area parkir
 * **Jumlah Mobil Terdeteksi:** **27 Mobil**
 * **Library Utama:** OpenCV (cv2), NumPy, Matplotlib
