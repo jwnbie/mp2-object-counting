@@ -45,7 +45,7 @@ def run_car_counting(image_path):
     contours, _ = cv2.findContours(dilated, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
     
     car_count = 0
-    # PARAMETER TUNING UNTUK 29 MOBIL
+    # PARAMETER TUNING
     MIN_AREA = 450 
     MAX_AREA = 10000
     MIN_ASPECT = 0.4
